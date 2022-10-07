@@ -48,10 +48,7 @@ p {
     background-color: khaki;
 }
 
-/* 
-.ozil-image-item img {
-    animation: animate1 1.01s ease-out infinite alternate;
-} */
+
 .image-item {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -123,17 +120,17 @@ p {
 }
 
 .matchs-item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     margin-top: 29px;
 }
 
 .previous-matchs {
-    padding: 30px 24px;
-    display: inline-block;
+    padding: 30px 34px;
     margin-left: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: khaki;
-    border: none;
     border-radius: 10px;
 }
 
@@ -142,18 +139,19 @@ p {
     height: 73px;
 }
 
-span.small-text {
+.small-text {
     position: relative;
     bottom: 30px;
 }
 
 .peru-flag {
     padding-top: 20px;
-    width: 101px;
 }
 
 .date-item h3 {
-    margin: 14px 0 10px 41px;
+    display: inline-block;
+    position: relative;
+    left: 32px;
 }
 
 .date-item p {
