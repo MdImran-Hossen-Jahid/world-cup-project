@@ -1,0 +1,213 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* banner-area css style */
+.banner-area {
+    width: 90%;
+    display: flex;
+    background-color: black;
+    border-radius: 21px;
+    color: white;
+    height: 370px;
+    margin-top: 30px;
+    margin-left: 66px;
+}
+
+.banner-area:hover {
+    background-color: gray;
+}
+
+.text-item h1 {
+    font-size: 35px;
+}
+
+.text-item h1,
+p {
+    margin-left: 25px;
+}
+
+.text-item a {
+    text-decoration: none;
+    background-color: lightblue;
+    color: black;
+    padding: 8px 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 25px;
+
+}
+
+.text-item a:hover {
+    font-size: 15px;
+    background-color: khaki;
+}
+
+/* 
+.ozil-image-item img {
+    animation: animate1 1.01s ease-out infinite alternate;
+} */
+.image-item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 57px;
+}
+
+.ozil-image {
+    position: relative;
+    top: 24px;
+    width: 198px;
+    margin-left: 20px;
+    animation: animate1 1.01s ease-out infinite alternate;
+}
+
+.vs-item {
+    width: 200px;
+    padding-top: 96px;
+}
+
+.clement-item {
+    width: 226px;
+    height: 334px;
+    position: relative;
+    top: 17px;
+    animation: animate1 1.01s ease-out infinite alternate;
+}
+
+@keyframes animate1 {
+    0% {
+        transform: scale(1.10);
+    }
+
+}
+
+
+/* section about-matchs css style */
+
+.about-matchs {
+    display: flex;
+}
+
+.collum-button {
+    margin-top: 50px;
+    margin-left: 59px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background-color: black;
+    width: 216px;
+    height: 233px;
+    display: inline-grid;
+}
+
+.matchs {
+    width: 118px;
+    margin: 21px 40px 8px;
+    padding: 13px 3px 2px 5px;
+    font-size: 12px;
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+}
+
+.matchs:hover {
+    background-color: khaki;
+    font-size: 13px;
+}
+
+.matchs-item {
+    margin-top: 29px;
+}
+
+.previous-matchs {
+    padding: 30px 24px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: khaki;
+    border: none;
+    border-radius: 10px;
+}
+
+.previous-matchs img {
+    width: 112px;
+    height: 73px;
+}
+
+span.small-text {
+    position: relative;
+    bottom: 30px;
+}
+
+.peru-flag {
+    padding-top: 20px;
+    width: 101px;
+}
+
+.date-item h3 {
+    margin: 14px 0 10px 41px;
+}
+
+.date-item p {
+    font-size: 14px;
+    margin: 0px 0 0 51px;
+}
+
+i.fa-regular.fa-clock {
+    margin-left: 21px;
+}
+
+i.fa-regular.fa-comment-dots {
+    margin-left: 34px;
+    font-size: 17px;
+}
+
+/* footer section css style */
+
+
+
+.end-item {
+    margin-top: 206px;
+    background-color: black;
+    color: white;
+}
+
+.end-item h1 {
+    font-size: 33px;
+    padding-bottom: 5px;
+    padding-top: 66px;
+    text-align: center;
+}
+
+.footer-item {
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 12px;
+}
+
+.footer-item a {
+    margin-right: 34px;
+    margin-left: 16px;
+    color: gray;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.footer-link-item {
+    padding-left: 620px;
+    padding-bottom: 16px;
+}
+
+.footer-link {
+    font-size: 17px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
