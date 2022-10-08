@@ -144,7 +144,7 @@ p {
     bottom: 30px;
 }
 
-.peru-flag {
+.opposite-flag {
     padding-top: 20px;
 }
 
@@ -159,17 +159,8 @@ p {
     margin: 0px 0 0 51px;
 }
 
-i.fa-regular.fa-clock {
-    margin-left: 21px;
-}
 
-i.fa-regular.fa-comment-dots {
-    margin-left: 34px;
-    font-size: 17px;
-}
-
-/* footer section css style */
-
+/* end-item section css style */
 
 
 .end-item {
