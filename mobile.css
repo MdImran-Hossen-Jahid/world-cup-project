@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* banner-area  responsive-css style */
+.banner-area {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 90%;
+    height: 616px;
+    margin-top: 10px;
+    margin-left: 15px
+}
+
+.text-item h1 {
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.text-item p {
+    padding-left: 15px;
+    padding-right: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.text-item h1,
+p {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.text-item a {
+    margin-left: 125px;
+
+}
+
+
+.ozil-image-item img {
+    position: relative;
+    right: 229px;
+    top: 45px;
+
+}
+
+
+
+.about-matchs {
+    display: none;
+}
