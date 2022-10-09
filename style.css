@@ -127,6 +127,17 @@ p {
     padding-bottom: 20px;
 }
 
+.transfer-item {
+    padding: 3px 5px;
+    font-size: 14px;
+}
+
+.transfer-item:hover {
+    background-color: lightcyan;
+    font-size: 15px;
+    border: none;
+}
+
 i.fa-regular.fa-clock {
     margin-left: 21px;
 }

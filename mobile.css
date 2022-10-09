@@ -11,7 +11,7 @@
     width: 90%;
     height: 616px;
     margin-top: 10px;
-    margin-left: 18px
+    margin-left: 19px
 }
 
 .text-item h1 {
@@ -38,7 +38,7 @@ p {
 }
 
 .text-item a {
-    margin-left: 125px;
+    margin-left: 120px;
 
 }
 
@@ -68,6 +68,7 @@ p {
     border: 1px solid lightgray;
     border-radius: 15px;
     color: black;
+
 }
 
 .matchs:hover {
@@ -75,13 +76,29 @@ p {
 }
 
 .previous-matchs {
-    margin-left: 18px;
+    margin-left: 19px;
     width: 90%;
 }
 
 .previous-matchs img {
     width: 100%;
 }
+
+
+
+
+
+
+/* .transfer-item {
+    padding: 3px 5px;
+    font-size: 14px;
+}
+
+.transfer-item:hover {
+    background-color: lightcyan;
+    font-size: 15px;
+    border: none;
+} */
 
 /* section end-item responsive css style */
 .end-item h1 {
