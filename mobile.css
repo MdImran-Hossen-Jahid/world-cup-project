@@ -11,7 +11,7 @@
     width: 90%;
     height: 616px;
     margin-top: 10px;
-    margin-left: 20px
+    margin-left: 18px
 }
 
 .text-item h1 {
@@ -75,10 +75,26 @@ p {
 }
 
 .previous-matchs {
-    margin-left: 20px;
+    margin-left: 18px;
     width: 90%;
 }
 
 .previous-matchs img {
     width: 100%;
+}
+
+/* section end-item responsive css style */
+.end-item h1 {
+    margin-bottom: 15px;
+}
+
+.footer-item a {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.footer-link-item {
+    padding-left: 40px;
+    padding-bottom: 6px;
 }
