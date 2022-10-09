@@ -121,16 +121,17 @@ p {
     margin-bottom: 9px;
 }
 
-
-i.fa-regular.fa-clock {
-    margin-left: 21px;
-}
-
 .previous-matchs h5 {
     display: inline-block;
     margin: 0;
     padding-bottom: 20px;
 }
+
+i.fa-regular.fa-clock {
+    margin-left: 21px;
+}
+
+
 
 i.fa-regular.fa-comment-dots {
     margin-left: 34px;

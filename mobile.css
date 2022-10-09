@@ -11,7 +11,7 @@
     width: 90%;
     height: 616px;
     margin-top: 10px;
-    margin-left: 15px
+    margin-left: 20px
 }
 
 .text-item h1 {
@@ -42,7 +42,6 @@ p {
 
 }
 
-
 .ozil-image-item img {
     position: relative;
     right: 229px;
@@ -50,8 +49,36 @@ p {
 
 }
 
-
+/* section about-matchs responsive css style */
 
 .about-matchs {
-    display: none;
+    flex-direction: column;
+}
+
+.collum-button {
+    background-color: white;
+    width: 230px;
+}
+
+.matchs {
+    font-size: 20px;
+    width: 185px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    color: black;
+}
+
+.matchs:hover {
+    background-color: khaki;
+}
+
+.previous-matchs {
+    margin-left: 20px;
+    width: 90%;
+}
+
+.previous-matchs img {
+    width: 100%;
 }
