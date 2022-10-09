@@ -111,6 +111,12 @@ p {
     border-radius: 10px;
 }
 
+.previous-matchs img {
+    width: 267px;
+    height: 163px;
+    border-radius: 10px;
+}
+
 .previous-matchs button {
     margin-left: 20px;
 }
