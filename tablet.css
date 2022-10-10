@@ -39,6 +39,8 @@ p {
     top: 34px;
 }
 
+/* section about-matchs responsive css style */
+
 .about-matchs {
     flex-direction: column;
 }
@@ -73,4 +75,15 @@ p {
 
 .matchs-item {
     padding-left: 90px;
+}
+
+/* section end-item responsive css style  */
+
+.end-item {
+    margin-bottom: 0;
+}
+
+.footer-link-item {
+    padding-left: 250px;
+    padding-bottom: 8px;
 }
