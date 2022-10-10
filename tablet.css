@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* banner-area css style */
+.banner-area {
+    width: 95%;
+    margin-left: 20px;
+    height: 302px;
+}
+
+.text-item h1 {
+    font-size: 31px;
+    margin-top: 20px;
+}
+
+.text-item p {
+    margin-top: 15px;
+    width: 296px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.text-item h1,
+p {
+    margin-left: 50px;
+}
+
+.text-item a {
+    margin-left: 50px;
+}
+
+.ozil-image-item img {
+    width: 446px;
+    height: 254px;
+    position: relative;
+    top: 34px;
+}
+
+.about-matchs {
+    flex-direction: column;
+}
+
+.collum-button {
+    display: flex;
+    background-color: white;
+    margin-left: 80px;
+    width: 600px;
+    height: 60px;
+
+}
+
+.matchs {
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 200px;
+    padding: 8px 8px 8px 8px;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: 17px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.matchs:hover {
+    font-size: 18px;
+}
+
+.matchs-item {
+    padding-left: 90px;
+}
