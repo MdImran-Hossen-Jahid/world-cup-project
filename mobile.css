@@ -9,7 +9,7 @@
     flex-direction: column;
     background-color: black;
     width: 90%;
-    height: 446px;
+    height: 444px;
     margin-top: 10px;
     margin-left: 19px
 }
@@ -46,8 +46,8 @@
 }
 
 .ozil-image-item img {
-    margin-top: 45px;
     position: relative;
+    margin-top: 45px;
     right: 15px;
     width: 345px;
 }
