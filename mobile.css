@@ -9,14 +9,18 @@
     flex-direction: column;
     background-color: black;
     width: 90%;
-    height: 616px;
+    height: 446px;
     margin-top: 10px;
     margin-left: 19px
 }
 
 .text-item h1 {
+    margin-top: 30px;
     font-size: 20px;
     text-align: center;
+
+    margin-left: 10px;
+    margin-bottom: 15px;
 
 
 }
@@ -30,8 +34,7 @@
 
 }
 
-.text-item h1,
-p {
+.text-item p {
     margin-top: 10px;
     margin-left: 10px;
     margin-bottom: 15px;
@@ -43,10 +46,10 @@ p {
 }
 
 .ozil-image-item img {
+    margin-top: 45px;
     position: relative;
-    right: 229px;
-    top: 45px;
-
+    right: 15px;
+    width: 345px;
 }
 
 /* section about-matchs responsive css style */
