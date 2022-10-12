@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* banner-area css style */
+.banner-area {
+    flex-direction: column;
+}
