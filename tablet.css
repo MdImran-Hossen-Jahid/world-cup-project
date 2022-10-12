@@ -7,7 +7,7 @@
 .banner-area {
     width: 95%;
     margin-left: 20px;
-    height: 302px;
+    height: 236px;
 }
 
 .text-item h1 {
@@ -33,10 +33,9 @@ p {
 }
 
 .ozil-image-item img {
-    width: 446px;
-    height: 254px;
+    width: 373px;
     position: relative;
-    top: 34px;
+    top: 14px;
 }
 
 /* section about-matchs responsive css style */
