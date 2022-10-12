@@ -47,7 +47,7 @@ p {
 .collum-button {
     display: flex;
     background-color: white;
-    margin-left: 80px;
+    margin-left: 81px;
     width: 600px;
     height: 60px;
 
@@ -73,7 +73,7 @@ p {
 }
 
 .matchs-item {
-    padding-left: 90px;
+    padding-left: 89px;
 }
 
 /* section end-item responsive css style  */
@@ -83,6 +83,7 @@ p {
 }
 
 .footer-link-item {
-    padding-left: 250px;
+    padding-left: 255px;
     padding-bottom: 8px;
+    padding-top: 5px;
 }

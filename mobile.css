@@ -5,11 +5,11 @@
 
 /* banner-area  responsive-css style */
 .banner-area {
-    display: flex;
+
     flex-direction: column;
     background-color: black;
     width: 90%;
-    height: 444px;
+    height: 405px;
     margin-top: 10px;
     margin-left: 19px
 }
@@ -21,32 +21,22 @@
 
     margin-left: 10px;
     margin-bottom: 15px;
-
-
 }
 
 .text-item p {
-    padding-left: 15px;
-    padding-right: 15px;
+    margin-left: 10px;
+    margin-bottom: 15px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-
-}
-
-.text-item p {
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 15px;
 }
 
 .text-item a {
-    margin-left: 118px;
-
+    margin-left: 131px;
 }
 
 .ozil-image-item img {
-    margin-top: 45px;
+    margin-top: 40px;
     width: 345px;
 }
 
@@ -98,6 +88,6 @@
 }
 
 .footer-link-item {
-    padding-left: 40px;
+    padding-left: 57px;
     padding-bottom: 6px;
 }
